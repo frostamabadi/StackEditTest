@@ -3,23 +3,6 @@
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. If you have finished with me, you can just create new files by opening the **file explorer** on left corner of the navigation bar.
 
 
-----------
-|`
-
-> strikethrough text
-
-`|  |
-|------------------|--|
-|                  |  |
-
-
--------
-
- 1. List1
- 2. L2
- 3. L3
-
-
 
 ```scala
 val df = ('a' to 'a' + 9).map(_.toString)
@@ -177,5 +160,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjQ5NjM2M119
+eyJoaXN0b3J5IjpbLTE1OTI4NDEzMzBdfQ==
 -->
