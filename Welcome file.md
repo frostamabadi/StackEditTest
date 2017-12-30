@@ -1,6 +1,13 @@
 # Welcome to StackEdit!
 
-[YouTube.Player]M7lc1UVf-VE[/YouTube.Player]
+<!--left-side-panel
+Example Navigation:
+
+* [Home](index.html)
+  * [Installation](index.html#Installation)
+  * [Pre-defined section names](index.html#pre-defined-section-names-)
+* [Layout](layout.html)
+-->
 
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. If you have finished with me, you can just create new files by opening the **file explorer** on left corner of the navigation bar.
@@ -169,5 +176,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjM1MDU1MywtNjI0NzQ2ODc3XX0=
+eyJoaXN0b3J5IjpbMTc3OTc5ODE4MiwtNjI0NzQ2ODc3XX0=
 -->
