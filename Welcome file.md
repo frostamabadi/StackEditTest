@@ -1,12 +1,5 @@
 # Welcome to StackEdit!
-<!--right-side-panel
-Example Navigation:
 
-* [Home](index.html)
-  * [Installation](index.html#Installation)
-  * [Pre-defined section names](index.html#pre-defined-section-names-)
-* [Layout](layout.html)
--->
 [YouTube.Player]M7lc1UVf-VE[/YouTube.Player]
 
 
@@ -176,5 +169,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODU5ODAwMTMsLTYyNDc0Njg3N119
+eyJoaXN0b3J5IjpbMjEyNjM1MDU1MywtNjI0NzQ2ODc3XX0=
 -->
